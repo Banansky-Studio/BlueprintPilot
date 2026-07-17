@@ -70,6 +70,10 @@ The goal is not more process. The goal is to finish the real blueprint requireme
 
 ## How to Use / 如何使用
 
+使用蓝图领航的前提是：你已经为想要完成的任务或目标生成了一份执行蓝图。
+
+蓝图领航会基于这份蓝图接管后续执行过程：先分析方案、整理下一步执行路径，再严格对照蓝图监督实施和验收，减少跑偏、遗漏和碎片化，直到任务完成。
+
 First, ask BlueprintPilot to analyze the blueprint and produce the next execution plan:
 
 第一步，让蓝图领航分析蓝图，并给出下一步执行方案：
