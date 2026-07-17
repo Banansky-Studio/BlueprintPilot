@@ -70,6 +70,10 @@ The goal is not more process. The goal is to finish the real blueprint requireme
 
 ## How to Use / 如何使用
 
+Before using BlueprintPilot, you should already have an execution blueprint for the task or goal you want to complete.
+
+BlueprintPilot then takes over the execution process based on that blueprint: it analyzes the plan, organizes the next execution path, supervises implementation and acceptance against the blueprint, and reduces drift, omissions, and fragmentation until the task is complete.
+
 使用蓝图领航的前提是：你已经为想要完成的任务或目标生成了一份执行蓝图。
 
 蓝图领航会基于这份蓝图接管后续执行过程：先分析方案、整理下一步执行路径，再严格对照蓝图监督实施和验收，减少跑偏、遗漏和碎片化，直到任务完成。
