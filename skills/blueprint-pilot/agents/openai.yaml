@@ -1,0 +1,4 @@
+interface:
+  display_name: "BlueprintPilot"
+  short_description: "蓝图领航：把复杂执行蓝图拆解、推进、验收、复盘并沉淀经验。"
+  default_prompt: "使用蓝图领航读取执行蓝图，生成执行合同、批次计划、状态文件、验收报告和复盘沉淀。"
